@@ -12,7 +12,7 @@ function Navbar() {
           <span>S</span>
         </span>
         <span>
-          <strong>Zaynab&apos;s Salon</strong>
+          <strong>Zaynab's Salon</strong>
           <small>Beauty studio</small>
         </span>
       </Link>

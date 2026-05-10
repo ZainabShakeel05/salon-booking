@@ -38,7 +38,7 @@ const Auth = ({ mode }) => {
       <section className="auth-card">
         <div>
           <span className="eyebrow">{isSignup ? 'Create account' : 'Welcome back'}</span>
-          <h1>{isSignup ? 'Join Zaynab&apos;s Salon' : 'Login to Zaynab&apos;s Salon'}</h1>
+          <h2>{isSignup ? "Join Zaynab's Salon" : "Login to Zaynab's Salon"}</h2>
           <p>
             {isSignup
               ? 'Save favorites, manage appointments, and build your personal beauty timeline.'

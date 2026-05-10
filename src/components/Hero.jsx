@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-import heroImage from '../assets/hero.png';
 
 function Hero() {
   return (
@@ -26,7 +25,7 @@ function Hero() {
       </div>
 
       <div className="hero-visual">
-        <img src={heroImage} alt="Salon beauty styling preview" />
+        <img src="https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1000&q=80" alt="Zaynab's Salon beauty styling preview" />
         <div className="floating-card">
           <span>Next slot</span>
           <strong>Today, 3:30 PM</strong>
